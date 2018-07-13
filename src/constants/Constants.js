@@ -1,0 +1,3 @@
+export const FETCH_USERS_DATA = 'FETCH_USERS_DATA';
+export const ADD_MORE_USERS = 'ADD_MORE_USERS';
+export const DELETE_USER = 'DELETE_USER';
